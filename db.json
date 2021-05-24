@@ -1,0 +1,264 @@
+[
+  {
+    "id": 1,
+    "sku": "789TUI89",
+    "name": "Cannabix",
+    "imageUrl": "./assets/img/sample-products/card-2.jpg",
+    "shortDescription": "This gets you even higher",
+    "unitPrice": 30.99,
+    "quantity": 150,
+    "isAvailable": true,
+    "status": 1,
+    "type": 0,
+    "isListed": true,
+    "listedQuantity": 72,
+    "inventories": [
+      {
+        "id": 1,
+        "barcode": "5774343434",
+        "quantity": 50
+      },
+      {
+        "id": 2,
+        "barcode": "34343478390",
+        "quantity": 200
+      },
+      {
+        "id": 3,
+        "barcode": "3436733434",
+        "quantity": 300
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "sku": "789TUI89",
+    "name": "MarryJ9X",
+    "imageUrl": "./assets/img/sample-products/card-3.jpg",
+    "shortDescription": "Chill to the limit",
+    "unitPrice": 15.55,
+    "quantity": 150,
+    "isAvailable": true,
+    "status": 2,
+    "type": 1,
+    "isListed": false,
+    "listedQuantity": 0,
+    "subProducts": [
+      {
+        "id": 3,
+        "sku": "789TUI89",
+        "name": "Canoax",
+        "imageUrl": "./assets/img/sample-products/card-2.jpg",
+        "shortDescription": "This gets you even higher",
+        "unitPrice": 30.99,
+        "quantity": 150,
+        "isAvailable": true,
+        "status": 0,
+        "type": 0,
+        "isListed": false,
+        "listedQuantity": 0
+      },
+      {
+        "id": 4,
+        "sku": "789TUI89",
+        "name": "CSolution",
+        "imageUrl": "./assets/img/sample-products/card-1.jpg",
+        "shortDescription": "Soft puff",
+        "unitPrice": 15.55,
+        "quantity": 150,
+        "isAvailable": true,
+        "status": 1,
+        "type": 0,
+        "isListed": true,
+        "listedQuantity": 200
+      }
+    ],
+    "inventories": [
+      {
+        "id": 1,
+        "barcode": "5774343434",
+        "quantity": 50
+      },
+      {
+        "id": 2,
+        "barcode": "34343478390",
+        "quantity": 200
+      },
+      {
+        "id": 3,
+        "barcode": "3436733434",
+        "quantity": 300
+      }
+    ]
+
+  },
+  {
+    "id": 3,
+    "sku": "789TUI89",
+    "name": "Canoax",
+    "imageUrl": "./assets/img/sample-products/card-2.jpg",
+    "shortDescription": "This gets you even higher",
+    "unitPrice": 30.99,
+    "quantity": 150,
+    "isAvailable": true,
+    "status": 0,
+    "type": 0,
+    "isListed": false,
+    "listedQuantity": 0,
+    "inventories": [
+      {
+        "id": 1,
+        "barcode": "5774343434",
+        "quantity": 50
+      },
+      {
+        "id": 2,
+        "barcode": "34343478390",
+        "quantity": 200
+      },
+      {
+        "id": 3,
+        "barcode": "3436733434",
+        "quantity": 300
+      }
+    ]
+
+  },
+  {
+    "id": 4,
+    "sku": "789TUI89",
+    "name": "CSolution",
+    "imageUrl": "./assets/img/sample-products/card-1.jpg",
+    "shortDescription": "Soft puff",
+    "unitPrice": 15.55,
+    "quantity": 150,
+    "isAvailable": true,
+    "status": 1,
+    "type": 0,
+    "isListed": true,
+    "listedQuantity": 200,
+    "inventories": [
+      {
+        "id": 1,
+        "barcode": "5774343434",
+        "quantity": 50
+      },
+      {
+        "id": 2,
+        "barcode": "34343478390",
+        "quantity": 200
+      },
+      {
+        "id": 3,
+        "barcode": "3436733434",
+        "quantity": 300
+      }
+    ]
+
+  },
+  {
+    "id": 5,
+    "sku": "789TUI89",
+    "name": "Pyscheledic addict",
+    "imageUrl": "./assets/img/sample-products/card-4.jpg",
+    "shortDescription": "Soft puff",
+    "unitPrice": 60.55,
+    "quantity": 150,
+    "isAvailable": true,
+    "status": 1,
+    "type": 1,
+    "isListed": true,
+    "listedQuantity": 60,
+    "subProducts": [
+      {
+        "id": 3,
+        "sku": "789TUI89",
+        "name": "Canoax",
+        "imageUrl": "./assets/img/sample-products/card-2.jpg",
+        "shortDescription": "This gets you even higher",
+        "unitPrice": 30.99,
+        "quantity": 150,
+        "isAvailable": true,
+        "status": 0,
+        "type": 0,
+        "isListed": false,
+        "listedQuantity": 0
+      },
+      {
+        "id": 4,
+        "sku": "789TUI89",
+        "name": "CSolution",
+        "imageUrl": "./assets/img/sample-products/card-1.jpg",
+        "shortDescription": "Soft puff",
+        "unitPrice": 15.55,
+        "quantity": 150,
+        "isAvailable": true,
+        "status": 1,
+        "type": 0,
+        "isListed": true,
+        "listedQuantity": 200
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "sku": "789TUI89",
+    "name": "MarryJ9X",
+    "imageUrl": "./assets/img/sample-products/card-3.jpg",
+    "shortDescription": "Chill to the limit",
+    "unitPrice": 15.55,
+    "quantity": 150,
+    "isAvailable": true,
+    "status": 2,
+    "type": 2,
+    "isListed": true,
+    "listedQuantity": 45,
+    "subProducts": [
+      {
+        "id": 3,
+        "sku": "789TUI89",
+        "name": "Canoax",
+        "imageUrl": "./assets/img/sample-products/card-2.jpg",
+        "shortDescription": "This gets you even higher",
+        "unitPrice": 30.99,
+        "quantity": 150,
+        "isAvailable": true,
+        "status": 0,
+        "type": 0,
+        "isListed": false,
+        "listedQuantity": 0
+      },
+      {
+        "id": 4,
+        "sku": "789TUI89",
+        "name": "CSolution",
+        "imageUrl": "./assets/img/sample-products/card-1.jpg",
+        "shortDescription": "Soft puff",
+        "unitPrice": 15.55,
+        "quantity": 150,
+        "isAvailable": true,
+        "status": 1,
+        "type": 0,
+        "isListed": true,
+        "listedQuantity": 200
+      }
+    ],
+    "inventories": [
+      {
+        "id": 1,
+        "barcode": "5774343434",
+        "quantity": 50
+      },
+      {
+        "id": 2,
+        "barcode": "34343478390",
+        "quantity": 200
+      },
+      {
+        "id": 3,
+        "barcode": "3436733434",
+        "quantity": 300
+      }
+    ]
+  }
+]
